@@ -1,1 +1,0 @@
-test_bdtest_bd 
